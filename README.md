@@ -10,9 +10,11 @@ PICO-8 is a fantasy console for making, sharing and playing tiny games and other
 HTML & JavaScript
 Pico8 Console.
 
-
 ### Controls:
 Control the character using Left and Right directional keys.
+
+### Game Link:
+https://designiso.github.io/Fruit-Grab-v1-/
 
 ### Author
 Orion 

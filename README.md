@@ -1,6 +1,6 @@
 # FRUIT GRAB (Video Game)
 
-<img src="https://github.com/designisO/Fruit-Grab-v1-/blob/main/screenshot.png" />
+<img src="https://github.com/designisO/Fruit-Grab-v1-/blob/main/gameone.pb.p8.png" />
 
 ### About:
 Lost within the world hungry with no food, a young man discovered a land where fruit falls from the sky. He must catch the fruit in the basket in order to survive. 
